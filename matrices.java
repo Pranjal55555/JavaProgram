@@ -7,8 +7,8 @@ public class matrices{
               if(matrix[i][j]== key);
               return true;
             }
-            else
-            System.out.println();
+            else {
+                System.out.println();
         }
     }
     public static void main(String args[]){
